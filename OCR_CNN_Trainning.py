@@ -12,7 +12,7 @@ from keras.layers import Dropout,Flatten
 from keras.layers.convolutional import Conv2D,MaxPooling2D
 import pickle
 
-################ PARAMETERS ########################
+################ PARAMETERS #######################
 path = 'myData'
 testRatio = 0.2
 valRatio = 0.2
